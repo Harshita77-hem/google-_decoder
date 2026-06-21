@@ -1,0 +1,6 @@
+{
+  "name": "Google Search Decoder for Students",
+  "description": "Convert student search queries into structured, easy-to-understand study answers (Simple Explanation, Exam-ready answers, Real-life examples, and Quick Revision notes).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
